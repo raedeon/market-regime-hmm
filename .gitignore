@@ -17,4 +17,4 @@ env/
 Thumbs.db
 
 # Output images
-*.png
+# *.png
